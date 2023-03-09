@@ -8,3 +8,4 @@ Draws a "braided" Lissajous curve using matplotlib ranges to draw the "braids."
   - seaborn
 ## Directions:
 Start a Jupyter notebook with "braided.ipynb."
+Matplotlib will plot the curve.
